@@ -1,6 +1,6 @@
 # Overview
 
-Moje rozwiazania zadan z wczesniejszych arkuszy maturalnych, ze strony [Arkusze.pl](https://arkusze.pl).
+Moje rozwiazania zadan z wczesniejszych arkuszy maturalnych ze strony [Arkusze.pl](https://arkusze.pl).
 Im starszy arkusz tym lepsze wersje pierwszych rozwiązań, ponieważ zaczynałem rozwiązywać je po przerwie od regularnego kodowania i musiałem przypomnieć sobie to co mi umkneło po tym czasie bez Pythona oraz wócić do wprawy w pisaniu.
 
 ## Future plans
