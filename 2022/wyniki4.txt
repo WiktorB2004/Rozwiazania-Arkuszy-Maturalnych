@@ -1,0 +1,11 @@
+Zadanie 4.1: 
+Ilosc slow zaczynajacych i konczacych sie na te sama litere: 18
+Pierwsza litera ktora konczy i zaczyna sie na te sama litere 93639
+Zadanie 4.2: 
+Liczba z najwieksza iloscia czynnikow pierwszych oraz ich ilosc: 99792 10
+Liczba z najwieksza iloscia roznych czynnikow pierwszych oraz ich ilosc: 62790 6
+Zadanie 4.3: 
+Trojki wypisane w pliku trojki.txt 
+Piatki dostepne pod zmienna part32_solution[0]
+a) Ilosc trojek: 27
+b) Ilosc piatek: 2
