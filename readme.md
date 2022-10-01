@@ -5,7 +5,7 @@ Im starszy arkusz tym lepsze wersje pierwszych rozwiązań, ponieważ zaczynałe
 
 ## Comments
 
-Na końcu każdego pliku z Zadania 4 znajduje się kod wpisujący i tworzący plik rozwiązania, które nie zawsze są zgodne z wymaganiem polecenia. Na egzaminie najlepiej uruchomić program dla NIE PRZYKLADOWYCH danych i po prostu przekopiować wynik, jednak chciałem poćwiczyć wpisywanie danych do plików.
+Na końcu każdego pliku z Zadania 4 znajduje się kod wpisujący i tworzący plik rozwiązania, które nie zawsze są zgodne z wymaganiem polecenia. Na egzaminie najlepiej uruchomić program dla NIE PRZYKLADOWYCH danych i po prostu przekopiować wynik programu, jednak chciałem poćwiczyć wpisywanie danych do plików.
 
 ## Future plans
 
