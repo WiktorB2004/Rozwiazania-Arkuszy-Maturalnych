@@ -1,7 +1,7 @@
 # Overview
 
-Moje rozwiazania zadan z wczesniejszych arkuszy matur, ze strony [Arkusze.pl](https://arkusze.pl)
-Im starszy arkusz tym lepsze wersje pierwszych rozwiązań, ponieważ zaczynałem rozwiązywać je po przerwie od regularnego kodowania i musiałem przypomnieć sobie to co mi umkneło po tym czasie bez Pythona oraz wócić do wprawy w pisaniu.
+Moje rozwiazania zadan z wczesniejszych arkuszy maturalnych ze strony [Arkusze.pl](https://arkusze.pl).
+Im starszy arkusz tym lepsze wersje pierwszych rozwiązań, ponieważ zaczynałem rozwiązywać je po przerwie od regularnego kodowania i musiałem przypomnieć sobie to co mi umknęło po tym czasie oraz wrócić do wprawy w pisaniu.
 
 ## Comments
 
