@@ -56,7 +56,7 @@ def find_good_3set(numlist: list):
                     count += 1
     return [res, count]
 
-# b) The fastest way to do, probably not the most efficient!!!
+# b) The easiest way to do, probably not the most efficient!!!
 def find_good_5set(numlist: list):
     numlist = list(map(int, numlist))
     res = []
